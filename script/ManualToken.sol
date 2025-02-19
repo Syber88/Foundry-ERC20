@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity solidity ^0.8.24;
+pragma solidity ^0.8.24;
 
 contract ManualToken {
     mapping (address => uint256) private s_balances;
